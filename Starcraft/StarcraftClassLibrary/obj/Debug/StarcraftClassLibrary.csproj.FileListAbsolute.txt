@@ -1,0 +1,4 @@
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftClassLibrary\bin\Debug\StarcraftClassLibrary.dll
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftClassLibrary\bin\Debug\StarcraftClassLibrary.pdb
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftClassLibrary\obj\Debug\StarcraftClassLibrary.dll
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftClassLibrary\obj\Debug\StarcraftClassLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\bin\Debug\StarcraftCodedUITest.dll
+C:\Users\admin\Documents\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\bin\Debug\StarcraftCodedUITest.pdb
+C:\Users\admin\Documents\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\obj\Debug\StarcraftCodedUITest.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\obj\Debug\StarcraftCodedUITest.dll
+C:\Users\admin\Documents\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\obj\Debug\StarcraftCodedUITest.pdb
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\bin\Debug\StarcraftCodedUITest.dll
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\bin\Debug\StarcraftCodedUITest.pdb
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\obj\Debug\StarcraftCodedUITest.csprojResolveAssemblyReference.cache
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\obj\Debug\StarcraftCodedUITest.dll
+C:\VSTS\Git\Broodwar\Starcraft\StarcraftCodedUITest\obj\Debug\StarcraftCodedUITest.pdb
